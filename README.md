@@ -1,1 +1,1 @@
-[![Ver Dashboard](./dashboard.png)](https://public.tableau.com/app/profile/berenice.becker)
+[![Ver Dashboard](./dashboard.png)](https://berenisbecker-a11y.github.io/movies_/)
